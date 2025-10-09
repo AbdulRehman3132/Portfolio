@@ -9,7 +9,7 @@ A minimalist one-page summary built in HTML & CSS, designed to demonstrate profe
 - SEO & schema-optimized structure  
 
 ### 📂 Files Included
-- `the-skill-shift-portfolio.html` — Main portfolio page  
+- `index.html` — Main portfolio page  
 - `skill-shift-summary.pdf` — Downloadable one-page summary  
 - `ar-favicon-64-B.svg` — Custom logo  
 
