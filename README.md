@@ -28,3 +28,17 @@ This repository contains a polished, responsive HTML portfolio piece titled **"T
    `https://abdulrehman3132.github.io/Portfolio/`  
 2. To host locally, open `index.html` in your browser.  
 3. To change the downloadable PDF link to the repository (recommended), edit the CTA or footer link to:
+https://raw.githubusercontent.com/AbdulRehman3132/Portfolio/main/skill-shift-summary.pdf
+This will let visitors download directly from GitHub (no Drive preview).
+
+## Contributing / Editing
+- Replace text, screenshots, or add project links to the article sections to adapt this as a case study.
+- Add your project screenshots to the repo and show them in `index.html` (recommended to increase recruiter trust).
+
+## Topics / Tags (recommended)
+`portfolio`, `html`, `frontend`, `resume`, `freelancer-sample`, `seo`, `accessibility`
+
+---
+
+© 2025 Abdul Rehman — Built for portfolio use  
+Freelancer: https://www.freelancer.com/u/sheikhghazi09?frm=sheikhghazi09&sb=t
