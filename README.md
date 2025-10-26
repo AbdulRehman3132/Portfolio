@@ -1,6 +1,7 @@
 ﻿<p align="center">
   <img src="./preview-screenshot.png" alt="Preview of The Skill Shift" width="450px">
 </p>
+[![Live Demo](https://img.shields.io/badge/site-GitHub%20Pages-blue)](https://abdulrehman3132.github.io/Portfolio/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # The Skill Shift — Portfolio Sample
 
