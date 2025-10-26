@@ -76,4 +76,4 @@ This will let visitors download directly without Google Drive preview.
 ---
 
 © 2025 **Abdul Rehman** — Built for professional portfolio use  
-🔗 Freelancer: [Abdul Rehman]((https://www.freelancer.com/u/AbdulRehman3123?frm=AbdulRehman3123&sb=t))
+🔗 Freelancer: [Abdul Rehman](https://www.freelancer.com/u/AbdulRehman3123?frm=AbdulRehman3123&sb=t)
