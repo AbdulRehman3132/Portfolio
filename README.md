@@ -34,9 +34,9 @@ A clean, one-page **portfolio sample** built with **HTML, CSS, and JavaScript** 
 
 ## 🔗 Live Links
 
-* 🌐 **Live Demo:** [https://abdulrehman3132.github.io/Portfolio/](https://abdulrehman3132.github.io/Portfolio/)
-* 📄 **Direct PDF Download:** [Download Summary (PDF)](https://raw.githubusercontent.com/AbdulRehman3132/Portfolio/main/The_skills_shift_one_page_summary.pdf)
-* 👤 **Freelancer Profile:** *sheikhghazi09*
+* 🌐 [Live Demo](https://abdulrehman3132.github.io/Portfolio/)
+* 📄 [Direct PDF Download](https://raw.githubusercontent.com/AbdulRehman3132/Portfolio/main/The_skills_shift_one_page_summary.pdf)
+* 👤 [Freelancer Profile](https://www.freelancer.com/u/AbdulRehman3123?frm=AbdulRehman3123&sb=t)
 
 ---
 
@@ -48,42 +48,36 @@ It combines content clarity with performance and accessibility — perfect as a 
 
 ---
 
-## 🧱 Key Features
+## 🧱 Technical Highlights
 
-✅ Fully responsive single-page layout
-✅ Downloadable, print-optimized PDF summary
-✅ Structured meta tags for SEO and social media sharing
-✅ Lightweight JavaScript for animation and interactivity
-✅ Accessible and UTF-8 encoded markup
-✅ GitHub Pages ready
+* ✅ Responsive single-page layout (`index.html`)
+* ✅ Optimized CSS for readability and load performance (`styles.css`)
+* ✅ Minimal JS for smooth scroll and interactivity (`scripts.js`)
+* ✅ Branded favicon (`ar-favicon-64-B.svg`)
+* ✅ Downloadable recruiter summary (`The_skills_shift_one_page_summery.pdf`)
+* ✅ SEO, Open Graph, and schema meta setup for professional sharing
 
 ---
 
 ## 🚀 How to Deploy / Use
 
-1. Visit the **live site**:
-   👉 [https://abdulrehman3132.github.io/Portfolio/](https://abdulrehman3132.github.io/Portfolio/)
-
-2. To host locally:
-
-   * Clone or download the repository.
-   * Open `index.html` directly in your browser.
-
-3. To change the downloadable PDF link:
-   Use your own hosted file via:
+1. The live site is available on GitHub Pages:
+   👉 **[https://abdulrehman3132.github.io/Portfolio/](https://abdulrehman3132.github.io/Portfolio/)**
+2. To host locally, just open `index.html` in your browser.
+3. For direct recruiter downloads, use the GitHub raw file link:
 
    ```
-   https://raw.githubusercontent.com/<username>/<repo>/main/<your-pdf-name>.pdf
+   https://raw.githubusercontent.com/AbdulRehman3132/Portfolio/main/The_skills_shift_one_page_summery.pdf
    ```
 
 ---
 
 ## 🧩 Contributing / Editing
 
-* Replace text, links, or screenshots to adapt for your own portfolio.
-* Add screenshots or project examples inside `index.html`.
-* Keep filenames lowercase for consistent GitHub Pages linking.
-* Re-run Lighthouse audit for SEO/accessibility tuning.
+* Update text and images in `index.html` for new projects.
+* Adjust styling in `styles.css` (mobile-first recommended).
+* Add new features or animations via `scripts.js`.
+* Replace the preview image to match your latest design.
 
 ---
 
@@ -94,4 +88,4 @@ It combines content clarity with performance and accessibility — perfect as a 
 ---
 
 © 2025 **Abdul Rehman** — Built for professional portfolio use.
-🔗 Freelancer: **sheikhghazi09**
+🔗 Freelancer: [Abdul Rehman](https://www.freelancer.com/u/AbdulRehman3123?frm=AbdulRehman3123&sb=t)
