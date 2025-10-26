@@ -1,79 +1,97 @@
-﻿<p align="center">
-  <img src="./preview-screenshot.png" alt="Preview of The Skill Shift" width="450px">
-</p>
 [![Live Demo](https://img.shields.io/badge/site-GitHub%20Pages-blue)](https://abdulrehman3132.github.io/Portfolio/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # The Skill Shift — Portfolio Sample
 
-A clean, one-page portfolio sample built in plain HTML/CSS by **Abdul Rehman**, designed for recruiter-friendly presentation and quick sharing.
+A clean, one-page **portfolio sample** built with **HTML, CSS, and JavaScript** by Abdul Rehman. Designed for recruiter-friendly presentation, direct sharing, and PDF export — ideal for freelancer or job application portfolios.
 
 ---
 
-### 🌟 Highlights
-- Fully responsive HTML layout  
-- Downloadable PDF version  
-- Integrated favicon (AR logo)  
-- SEO & schema-optimized structure  
+## 🌟 Highlights
 
-### 📂 Files Included
-- `the-skill-shift-portfolio.html` — Main portfolio page  
-- `skill-shift-summary.pdf` — Downloadable one-page summary  
-- `ar-favicon-64-B.svg` — Custom logo  
+* Fully responsive HTML layout
+* Custom **CSS styling** and **JS animations**
+* Downloadable **one-page PDF summary**
+* Integrated favicon (AR logo)
+* SEO & Open Graph optimized structure
+* Clean codebase for easy customization
 
-### 🔗 Live Links
-- [Freelancer Profile](https://www.freelancer.com/u/sheikhghazi09?frm=sheikhghazi09&sb=t)  
-- [PDF Version](https://drive.google.com/file/d/18KQqf0ytvX6mpwtzgnlX-154QcOIIuOE/view?usp=sharing)  
-- [Live Demo](https://abdulrehman3132.github.io/Portfolio/)
+---
+
+## 📂 Files Included
+
+| File                                      | Description                                            |
+| ----------------------------------------- | ------------------------------------------------------ |
+| **index.html**                            | Main portfolio article page (deployed on GitHub Pages) |
+| **styles.css**                            | Custom responsive stylesheet                           |
+| **scripts.js**                            | Interactivity and scroll animations                    |
+| **The_skills_shift_one_page_summary.pdf** | Downloadable recruiter summary                         |
+| **ar-favicon-64-B.svg**                   | Minimal AR favicon                                     |
+| **preview-screenshot.png**                | Preview image for README or social sharing             |
+| **LICENSE**                               | MIT License (open use permitted)                       |
+| **README.md**                             | Project documentation (this file)                      |
+
+---
+
+## 🔗 Live Links
+
+* 🌐 **Live Demo:** [https://abdulrehman3132.github.io/Portfolio/](https://abdulrehman3132.github.io/Portfolio/)
+* 📄 **Direct PDF Download:** [Download Summary (PDF)](https://raw.githubusercontent.com/AbdulRehman3132/Portfolio/main/The_skills_shift_one_page_summary.pdf)
+* 👤 **Freelancer Profile:** *sheikhghazi09*
 
 ---
 
 ## 🧭 Overview
-This repository contains a polished, responsive HTML portfolio piece titled **"The Skill Shift: Why Lifelong Learning Is the New Job Security"**.  
-It demonstrates a project-first approach to portfolios — short, verifiable mini-project ideas, a downloadable one-page summary, and accessible, print-optimized markup.
+
+**The Skill Shift: Why Lifelong Learning Is the New Job Security** is a polished, one-page web project that demonstrates how portfolio storytelling and design can merge into a professional sample for clients or recruiters.
+
+It combines content clarity with performance and accessibility — perfect as a **portfolio case study** or **freelancer showcase**.
 
 ---
 
-## 🧱 Highlights
-- ✅ Responsive single-page HTML (`index.html`)  
-- ✅ Downloadable PDF summary (`skill-shift-summary.pdf`)  
-- ✅ Branded favicon (`ar-favicon-64-B.svg`)  
-- ✅ SEO & Open Graph meta tags for social sharing  
-- ✅ Print styles for clean "Save as PDF" exports  
+## 🧱 Key Features
 
----
-
-## 📁 Files in this repo
-- `index.html` — Main portfolio page (deploys via GitHub Pages)  
-- `skill-shift-summary.pdf` — One-page downloadable summary for recruiters  
-- `ar-favicon-64-B.svg` — Simple AR favicon used in the page head  
-- `LICENSE` — MIT License (permissive)  
-- `README.md` — This file  
+✅ Fully responsive single-page layout
+✅ Downloadable, print-optimized PDF summary
+✅ Structured meta tags for SEO and social media sharing
+✅ Lightweight JavaScript for animation and interactivity
+✅ Accessible and UTF-8 encoded markup
+✅ GitHub Pages ready
 
 ---
 
 ## 🚀 How to Deploy / Use
-1. The site is already published on GitHub Pages:  
-   👉 `https://abdulrehman3132.github.io/Portfolio/`  
-2. To host locally, open `index.html` in your browser.  
-3. To change the downloadable PDF link to GitHub direct download:  
-https://raw.githubusercontent.com/AbdulRehman3132/Portfolio/main/skill-shift-summary.pdf
 
-yaml
-Copy code
-This will let visitors download directly without Google Drive preview.  
+1. Visit the **live site**:
+   👉 [https://abdulrehman3132.github.io/Portfolio/](https://abdulrehman3132.github.io/Portfolio/)
+
+2. To host locally:
+
+   * Clone or download the repository.
+   * Open `index.html` directly in your browser.
+
+3. To change the downloadable PDF link:
+   Use your own hosted file via:
+
+   ```
+   https://raw.githubusercontent.com/<username>/<repo>/main/<your-pdf-name>.pdf
+   ```
 
 ---
 
 ## 🧩 Contributing / Editing
-- Replace text, screenshots, or add project links to adapt this as a case study.  
-- Add your own screenshots to the repo and display them in `index.html` (recommended for trust).  
+
+* Replace text, links, or screenshots to adapt for your own portfolio.
+* Add screenshots or project examples inside `index.html`.
+* Keep filenames lowercase for consistent GitHub Pages linking.
+* Re-run Lighthouse audit for SEO/accessibility tuning.
 
 ---
 
 ## 🏷️ Topics / Tags
-`portfolio`, `html`, `frontend`, `resume`, `freelancer-sample`, `seo`, `accessibility`
+
+`portfolio` • `html` • `css` • `javascript` • `frontend` • `resume` • `freelancer` • `seo` • `accessibility`
 
 ---
 
-© 2025 **Abdul Rehman** — Built for professional portfolio use  
-🔗 Freelancer: [sheikhghazi09](https://www.freelancer.com/u/sheikhghazi09?frm=sheikhghazi09&sb=t)
+© 2025 **Abdul Rehman** — Built for professional portfolio use.
+🔗 Freelancer: **sheikhghazi09**
