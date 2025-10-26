@@ -21,7 +21,7 @@ A clean, one-page portfolio sample built in plain HTML/CSS by **Abdul Rehman**, 
 - `ar-favicon-64-B.svg` — Custom logo  
 
 ### 🔗 Live Links
-- [Freelancer Profile](https://www.freelancer.com/u/sheikhghazi09?frm=sheikhghazi09&sb=t)  
+- [Freelancer Profile](https://www.freelancer.com/u/AbdulRehman3123?frm=AbdulRehman3123&sb=t)  
 - [PDF Version](https://drive.google.com/file/d/18KQqf0ytvX6mpwtzgnlX-154QcOIIuOE/view?usp=sharing)  
 - [Live Demo](https://abdulrehman3132.github.io/Portfolio/)
 
@@ -76,4 +76,4 @@ This will let visitors download directly without Google Drive preview.
 ---
 
 © 2025 **Abdul Rehman** — Built for professional portfolio use  
-🔗 Freelancer: [sheikhghazi09](https://www.freelancer.com/u/sheikhghazi09?frm=sheikhghazi09&sb=t)
+🔗 Freelancer: [Abdul Rehman]((https://www.freelancer.com/u/AbdulRehman3123?frm=AbdulRehman3123&sb=t))
